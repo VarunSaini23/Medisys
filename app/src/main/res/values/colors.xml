@@ -3,4 +3,8 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="main_grad_start">#5b2d8c</color>
+    <color name="main_grad_end">#4389a2</color>
+    <color name="white">#ffffff</color>
+
 </resources>
